@@ -23,6 +23,6 @@ Notes: Density refers to a ratio of the number of children classified as living 
 
 ## Blog Posts, Writing, and Commincating Ideas
 Below are a selection of brief blogs and articles that I co-wrote with colleagues on a variety of topics relating to the digital economy and green transition.
-- [Five Things to Know about Bank of Canada's Digital Currency Discussions](https://ictc-ctic.ca/articles/five-things-to-know-about-bank-of-canadas-digital-currency-discussions)
-- [Spotlight on Inflation and Digital Labour Market Dynamics](https://ictc-ctic.ca/news-events/digital-pulse-360)
+- [Five Things to Know about the Bank of Canada's Digital Currency Discussions](https://ictc-ctic.ca/articles/five-things-to-know-about-bank-of-canadas-digital-currency-discussions)
+- [A Spotlight on Inflation and Digital Labour Market Dynamics](https://ictc-ctic.ca/news-events/digital-pulse-360)
 - [How Three Recent Trade Developments Could Shape Canada’s Green Energy Exports](https://ictc-ctic.ca/articles/how-three-recent-trade-developments-could-shape-canadas-green-energy-exports)
