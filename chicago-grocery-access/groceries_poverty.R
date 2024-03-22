@@ -2,19 +2,17 @@
 library(sf)
 library(tidyverse)
 
-# Read shapefile
+# Set working directory
+setwd() # Set as repository path
+
+# Read shapefiles
 chicago_nbh <- st_read("ComArea_ACS14_f.shp")
+groceries <- st_read("groceries.shp")
+
 
 # Mutate to add new column for child povertiy density, scaled by 100
 chicago_nbh <- chicago_nbh %>%
   mutate(cpov_density = (ChldPov14 / shape_area) * 100)
-
-# Plot
-ggplot(chicago_nbh) +
-  geom_sf(aes(fill = cpov_density))
-
-# Read groceries shapefile
-groceries <- st_read("groceries.shp")
 
 # Get coordinate refernce system
 groceries_crs <- st_crs(groceries)
@@ -23,7 +21,7 @@ groceries_crs <- st_crs(groceries)
 chicago_crs <- st_transform(chicago_nbh, groceries_crs)
 
 # Plot
-p <- ggplot(chicago_crs) +
+plot <- ggplot(chicago_crs) +
   geom_sf(aes(fill = cpov_density)) +
   scale_fill_gradient2(low = "white", high = "red",
                        space = "Lab",
@@ -39,7 +37,8 @@ p <- ggplot(chicago_crs) +
   labs(fill = "Child Poverty Density",
        caption = paste("Density refers to the number of children living",
                        "in poverty, relative to the size of the district.")) +
-  ggtitle("Access to Grocery Stores in Chicago's Poorest Neighbourhoods")
+  ggtitle("Access to Grocery Stores in Chicago's Poorest Neighbourhoods") +
+  theme_bw()
 
 # Save plot
-ggsave("poverty_and_food.png", plot = p, width = 10, height = 10, dpi = 1000)
+ggsave("poverty_and_food.png", plot = plot, width = 10, height = 10, dpi = 1000)
