@@ -9,7 +9,6 @@ setwd() # Set as repository path
 chicago_nbh <- st_read("ComArea_ACS14_f.shp")
 groceries <- st_read("groceries.shp")
 
-
 # Mutate to add new column for child povertiy density, scaled by 100
 chicago_nbh <- chicago_nbh %>%
   mutate(cpov_density = (ChldPov14 / shape_area) * 100)
