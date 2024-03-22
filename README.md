@@ -4,7 +4,8 @@ Below are some projects I’ve enjoyed working on. They are designed to showcase
 1. Imputing Missing Values with Machine Learning
 2. Modelling and Visualizing Canada-US Trade Patterns
 3. Visual Exploration of Poverty and Access to Food in Chicago
-4. Blog Posts, Writing, and Commincating Ideas 
+4. Estimating Demand for Air Travel
+5. Blog Posts, Writing, and Commincating Ideas 
 
 ## Imputing Missing Values with Machine Learning (Coming Soon)
 
@@ -17,5 +18,7 @@ This project visually explores the relationship between childhood poverty levels
 - Visualize the density of grocery stores across city neighbourhoods
 
 Notes: Density refers to a ratio of the number of children classified as living in poverty and the size of the region. A random sample of grocery stores was used to reduce clutter that obscured readability and interpretability of the image.
+
+## Estimating Demand for Air Travel
 
 ## Blog Posts, Writing, and Commincating Ideas
