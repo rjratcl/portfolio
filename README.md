@@ -3,7 +3,7 @@ Below are some projects I’ve enjoyed working on. They are designed to showcase
  
 1. Imputing Missing Values with Machine Learning
 2. Modelling and Visualizing Canada-US Trade Patterns
-3. Visual Exploration of Poverty and Access to Food in Chicago
+3. [Visual Exploration of Poverty and Access to Food in Chicago](section3)
 4. Estimating Demand for Air Travel
 5. Blog Posts, Writing, and Commincating Ideas 
 
@@ -11,6 +11,7 @@ Below are some projects I’ve enjoyed working on. They are designed to showcase
 
 ## Modelling and Visualizing Canada-US Trade Patterns (Coming Soon)
 
+<a name="section3"></a>
 ## [Visual Exploration of Poverty and Access to Food in Chicago](https://github.com/rjratcl/portfolio/tree/main/chicago-grocery-access)
 This project visually explores the relationship between childhood poverty levels and access to food. Using shapefiles, [this R script](https://github.com/rjratcl/portfolio/blob/main/chicago-grocery-access/groceries_poverty.R) produces a [map of the City of Chicago](https://github.com/rjratcl/portfolio/blob/main/chicago-grocery-access/poverty_and_food.png). The map shows the childhood poverty density for each of Chicago’s neighbourhoods and plots a random sample of grocery stores on top of the city map. The aim of the visualization is to:
 - Examine the correlation between poverty and access to food
