@@ -19,6 +19,10 @@ This project visually explores the relationship between childhood poverty levels
 
 Notes: Density refers to a ratio of the number of children classified as living in poverty and the size of the region. A random sample of grocery stores was used to reduce clutter that obscured readability and interpretability of the image.
 
-## Estimating Demand for Air Travel
+## Estimating Demand for Air Travel (Coming Soon)
 
 ## Blog Posts, Writing, and Commincating Ideas
+Below are a selection of brief blogs and articles that I co-wrote with colleagues on a variety of topics relating to the digital economy and green transition.
+- [Five Things to Know about Bank of Canada's Digital Currency Discussions](https://ictc-ctic.ca/articles/five-things-to-know-about-bank-of-canadas-digital-currency-discussions)
+- [Spotlight on Inflation and Digital Labour Market Dynamics](https://ictc-ctic.ca/news-events/digital-pulse-360)
+- [How Three Recent Trade Developments Could Shape Canada’s Green Energy Exports](https://ictc-ctic.ca/articles/how-three-recent-trade-developments-could-shape-canadas-green-energy-exports)
