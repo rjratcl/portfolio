@@ -1,11 +1,15 @@
 # Welcome to My Portfolio
 Below are some projects I’ve enjoyed working on. They are designed to showcase some of my skills relating to various aspects of analysis, such as visualisation, modelling, statistics, and machine learning. To begin, I’ve provided a list of the examples of my work you can find in this repository. I hope you enjoy!
 
+- [About Me](#about-me)
 - [Imputing Missing Values with Machine Learning (Coming Soon)](#imputing-missing-values-with-machine-learning-coming-soon)
 - [Modelling and Visualizing Canada-US Trade Patterns (Coming Soon)](#modelling-and-visualizing-canada-us-trade-patterns-coming-soon)
 - [Visual Exploration of Poverty and Access to Food in Chicago](#visual-exploration-of-poverty-and-access-to-food-in-chicago)
 - [Estimating Demand for Air Travel (Coming Soon)](#estimating-demand-for-air-travel-coming-soon)
 - [Blog Posts, Writing, and Commincating Ideas](#blog-posts-writing-and-commincating-ideas)
+
+## About Me
+I am a quantitatively-driven economist and data professional with a Master's degree from the University of Chicago. I have demonstrated expertise in the theory and application of statistical and econometric modelling, causal inference, and data analysis. I have a proven track record of leading impactful research projects and communicating technical ideas to diverse audiences. I am passionate about the intersections of economics, innovation, and competition, with a focus on exploring data-driven approaches to better understand digital platforms, market structure, and market demand.
 
 ## Imputing Missing Values with Machine Learning (Coming Soon)
 
