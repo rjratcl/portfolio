@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-Below are some projects I've enjoyed working on. They are designed to showcase some of my skills relating to various aspects of analysis, such as visualization, modelling, statistics, and machine learning. I hope you enjoy!
+Below are some projects I’ve enjoyed working on. They are designed to showcase some of my skills relating to various aspects of analysis, such as visualisation, modelling, statistics, and machine learning. To begin, I’ve provided a list of the examples of my work you can find in this repository. I hope you enjoy!
  
 1. Imputing Missing Values with Machine Learning
 2. Modelling and Visualizing Canada-US Trade Patterns
