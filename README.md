@@ -3,6 +3,8 @@ Welcome! My name is Justin and I'm a quantitatively-driven economist and data pr
 
 Below are some projects I’ve enjoyed working on. They are designed to showcase some of my skills relating to various aspects of my data work and economic analysis, such as visualization, modelling, statistics, and machine learning. To begin, I’ve provided a list of projects and examples of my work found in this repository. I hope you enjoy!
 
+P.S. Please don't mind the mess, I am currently building this out. I'm new to providing a portfolio showcasing my work!
+
 - [Imputing Missing Values with Machine Learning (Coming Soon)](#imputing-missing-values-with-machine-learning-coming-soon)
 - [Modelling and Visualizing Canada-US Trade Patterns (Coming Soon)](#modelling-and-visualizing-canada-us-trade-patterns-coming-soon)
 - [Visual Exploration of Poverty and Access to Food in Chicago](#visual-exploration-of-poverty-and-access-to-food-in-chicago)
